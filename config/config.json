@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "uploadimage-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/uploadimage/UploadimageWebPart.js",
+          "manifest": "./src/webparts/uploadimage/UploadimageWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "UploadimageWebPartStrings": "lib/webparts/uploadimage/loc/{locale}.js"
+  }
+}

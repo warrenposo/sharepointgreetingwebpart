@@ -1,0 +1,1 @@
+{"version":3,"file":"Uploadimage.d.ts","sourceRoot":"","sources":["../../../../src/webparts/uploadimage/components/Uploadimage.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAG7D,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,KAAK,CAAC,SAAS,CAAC,iBAAiB,EAAE,EAAE,CAAC;IACtE,MAAM,IAAI,KAAK,CAAC,YAAY,CAAC,iBAAiB,CAAC;CAyCvD"}
